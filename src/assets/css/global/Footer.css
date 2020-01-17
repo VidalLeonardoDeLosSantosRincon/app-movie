@@ -1,0 +1,12 @@
+#ctr-footer{
+    height:150px;
+    width:100%;
+    background: white;
+    padding:0 25px;
+    box-sizing:border-box;
+    border-top:0.5px solid rgba(0,0,0,0.1);
+    
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}

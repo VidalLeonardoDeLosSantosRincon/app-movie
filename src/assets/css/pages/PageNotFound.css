@@ -1,0 +1,11 @@
+#ctr-page_not_found{
+    height:100%;
+    width:100%;
+    padding:5px;
+    background: white;
+    box-sizing: border-box;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
